@@ -1,4 +1,4 @@
-# The Logic Ledger — DSA Tracker
+# The Algorithm Chronicle
 
 A clean, persistent progress tracker for Striver’s A2Z DSA Course. Track 400+ topics with a minimal, distraction-free interface.
 
